@@ -1,11 +1,11 @@
 # wildfire-inequality
-72537 census tracts, 3108 county, 49 states, across continental US
+72537 census tracts across 49 states in the contiguous US (CONUS)
 
 Datasets (data size & missing value):
-smoke: 72537
+wildfire PM2.5 (smoke): 72537
 building age: 72243, supplement missing data (318) with county mean (315) or state mean (3).
 climate zone: 4, 4 seasons, for 3108 county
-CDC2018: total 72837, but 199 not found in smoke ID; total 700~900 missing value for SVI data
+CDC/ATSDR SVI 2018: total 72837, but 199 not found in smoke ID; total 700~900 missing value for SVI data
 
 
 BuiltYear.dat
